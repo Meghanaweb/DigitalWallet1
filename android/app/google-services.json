@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "119175152810",
+    "project_id": "digiwallet-bc18b",
+    "storage_bucket": "digiwallet-bc18b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:119175152810:android:b00ae25777cb2f43e03cd3",
+        "android_client_info": {
+          "package_name": "com.mycompany.digitalwallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "119175152810-lgdvkieet6gk4ec9dvhenv05o293b3up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzEQ5D-0nXMMbbyTmhe-xIJE_uyA0vPIk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "119175152810-lgdvkieet6gk4ec9dvhenv05o293b3up.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "119175152810-kkvv3skm9pti6052csladehkt02lscm0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.mycompany.digitalwallet"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
